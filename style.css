@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.card{
+    background-color: grey;
+    padding: 45;
+    
+
+
+}
+.card2{
+    background-color: white;
+    width: 220px;
+    height: 400px;
+    padding: 20px;
+    border: 1px solid gray;
+    border-radius: 10px;
+}
+.img img{
+    border: 1px solid gray;
+    border-radius: 7px;
+}
+.boat{
+    display: flex;
+    padding: 10px ;
+}
+.boat nav{
+    padding: 6px;
+    background-color: rgb(123, 238, 238);
+    border: 1px solid rgb(123, 238, 238);
+    border-radius: 15px;
+    margin: 0px 5px;
+
+}
+.content h1{
+    padding: 0px 0px 7px;
+}
+.footer{
+    text-align: center;
+    padding: 10px ;
+}
+.footer button{
+    color: rgb(241, 239, 239);
+    background-color: rgb(9, 132, 148);
+    border: 1px solid grey;
+    margin: 3px;
+    padding: 4px;
+    border-radius: 6px;
+}
